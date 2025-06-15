@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabryella Fachini
+# 👩🏻‍💻 Gabryella Facchini
 
 **`CPQ Architect migrating to FullStack Developer or Product Manager`**
 
