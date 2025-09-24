@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Gabryella Facchini
+# 👩🏻‍💻 Facchini
 
-**`CPQ Architect migrating to FullStack Developer or Product Manager`**
+**`CPQ Architect`**
 
-I currently work as a software architect in the CPQ (Configure, Price, Quote) domain, where I deal with CRM and ERP systems, implementing advanced pricing and tax logic using JavaScript. Additionally, I define the structure, design, and technological decisions that shape the system architecture for B2B companies. At the moment, I am seeking a career transition into the roles of backend/fullstack development, aiming to expand my expertise in digital products and system architecture.
+Hello, World!
 
 ---
 
