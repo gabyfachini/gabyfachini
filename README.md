@@ -1,12 +1,12 @@
-# 👩🏻‍💻 Facchini
+# Gabryella Facchini 👩🏻‍💻
 
-**`CPQ Architect`**
+**`CPQ Architect migrating to Full Stack Developer`**
 
-Hello, World!
+Console.WriteLine("Hello, World!");
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -108,7 +108,7 @@ Hello, World!
 <br/>
 
 ---
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
